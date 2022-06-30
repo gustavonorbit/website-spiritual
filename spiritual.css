@@ -1,8 +1,18 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    font-size: 50px;
+    
+}
+
 nav#menu{
     display: block;
 
 }
 nav#menu ul{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     list-style: none;
     text-transform: uppercase;
     position: absolute;
